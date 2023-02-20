@@ -1,7 +1,11 @@
 Run the code with 
 
-"python train/train.py"
+```
+python train/train.py
+```
 
 choose the dataset with 
 
-"python train/train.py --dataset tagmynews"
+```
+python train/train.py --dataset tagmynews
+```
